@@ -66,7 +66,7 @@
               "type": "PowerShell",
               "runElevated": true,
               "name": "RunPoShInstall",
-              "scriptUri": "<ScriptSource>"
+              "scriptUri": "https://satestimagebuilder.blob.core.windows.net/scripts/Install_applications.ps1?sp=r&st=2021-09-21T12:05:27Z&se=2021-12-26T21:05:27Z&spr=https&sv=2020-08-04&sr=b&sig=%2FhLwhBvpcvBIlUW0SrMYX1mdGPzt8uhd6v6O4U5ZTMQ%3D"
             }
           ],
           "distribute": [
